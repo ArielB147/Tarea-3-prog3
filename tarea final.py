@@ -58,7 +58,7 @@ while rep == True:
     elif respuesta == '4':
         funtions.exportar()
 
-    elif repuesta ==  '5':
+    elif respuesta ==  '5':
         funtions.respuesta()
 
     elif respuesta == '6':
