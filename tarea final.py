@@ -77,3 +77,6 @@ while rep == True:
         print('la opcion que usted a ingresado no se encuantra disponible eliga otra opción')
         input('')
     print('')
+    r = input('¿le gustaria elegir otra opcion del programa? S o N ')
+    if r == 'N' or r == 'n':
+        rep = False
